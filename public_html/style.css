@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+
+.mycontainer {
+      margin: 0 0;
+      background: #f9f9f9;
+      font-size: 24px;
+      padding: 25px;
+}
+
+.parallax1 {
+      background: url('parallax1.jpg') no-repeat center;
+      background-size: cover;
+      background-attachment: fixed;
+      height: 500px;
+}
+
+.parallax2 {
+      background: url('parallax2.jpg') no-repeat center;
+      background-size: cover;
+      background-attachment: fixed;
+      height: 500px;
+}
+
+.parallax3 {
+      background: url('parallax3.jpg') no-repeat center;
+      background-size: cover;
+      background-attachment: fixed;
+      height: 500px;
+}
+
+.list-group {
+      list-style: decimal inside;
+}
+
+ol li.list-group-item {
+      display: list-item;
+}
+
+.embed-responsive {
+      margin: 0;
+      max-height: 0.5s;
+}
+
+#sunil {
+      color: lightblue;margin-right: 20px;
+      font-size: 1.3em;
+}

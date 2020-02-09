@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+
+
+* {
+      font-family: Lobster;
+}
+
+html,body {
+       height: 100%;
+}
+
+html {
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+body {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    background-color: transparent;
+}
+
+body {
+    background: url(second.jpg) no-repeat center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+}
+
